@@ -1,5 +1,5 @@
 import "./App.css";
-import FuzzBallMatcher from "./components/fuzz";
+import FuzzBallMatcher from "./components/FuzzBallMatcher";
 
 function App() {
   return (
